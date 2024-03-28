@@ -1,0 +1,30 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rubik-scribble-regular {
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.container{
+    background-color: rgb(215, 245, 250);
+    width: 540px;
+    height: 200px;
+}
+.container-fluid{
+    background-color: brown;
+    
+    height: 100px;
+}
+.row{
+    background-color: gold;
+    margin: 5px;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
